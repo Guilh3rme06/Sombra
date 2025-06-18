@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_1
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: ebe1ops95mbsksqsieuyax3m
+  packageName: Sombra
+  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: bizbnoiozyyc1rsrfyedb
+  scene: {fileID: 102900000, guid: df158d4fec0503e4ebf0b3d8164a07be, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: c00696944f0bba94698f1d49af9292be,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 1
+    serverInstanceCapacity: 16
