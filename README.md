@@ -1,7 +1,11 @@
 # Sombra
 Bem-vindo ao projeto **Sombra**!
 
-Este é um template inicial para projetos Unity, projetado para acelerar o desenvolvimento de jogos e experiências interativas.
+Este trabalho foi realizado na aula de realidade virtual e aumentada no IPLUSO
+
+## Objetivo
+
+O Objetivo do jogo é Apanhar 3 moedas enquanto não caímos do mapa e fugir de uma Vampira(inimigo), caso morras a quest de apanhar moedas renicia 
 
 ## Funcionalidades
 
